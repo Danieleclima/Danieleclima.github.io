@@ -1,11 +1,11 @@
 # Site settings
-author: Daniel Lima
-title: 
+author: Dani Lima
+title: Lost in iteration
 header-img: img/home-bg.png
 email: daniel.echuaca.lima@gmail.com
-copyright_name: Daniel Lima
+copyright_name: Dani Lima
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Dani's blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Danieleclima
