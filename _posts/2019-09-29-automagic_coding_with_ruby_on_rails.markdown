@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "automagic coding with Ruby on Rails"
-date:       2019-09-29 14:27:16 +0000
+date:       2019-09-29 10:27:17 -0400
 permalink:  automagic_coding_with_ruby_on_rails
 ---
 
@@ -53,5 +53,7 @@ end
 As you can see on the above database schema, the review model acted as the joint table between my restaurant and user models, therefore Restaurant `has_many :users, through: :reviews` and User `has_many :restaurants, through: :reviews`.
 The automagic came (apart from when I used Rails generators) when I used the Omniauth gem to implement social media login. Omniauth standardizes multi-provider authentication for web applications so I was able to have my users loging in via Facebook in just a few hours, which would have taken a lot more time if it wasn't for Omniauth. As I was developing my app I learnt, thanks to other colleagues, that Omiauth was not really compatible with the rails default server called Puma given it requires a https protocol, hence I had to install another gem called thin which provided the https protocol that satisfies OAuth.
 I figured out, only after I finished my project unfortunately, that there's another very useful gem which I could have used in order to seed my database called Faker, I had trouble seeding my database so I will keep that in mind for next time. All of the above was made possible thanks to gems!! now I'm moving on to the Javascript section of the curriculum but I'll sure miss the language that introduced me to software engineering. See you later Rails!
+
+![](http://i.imgur.com/6ipUqve.gif)
 
 
