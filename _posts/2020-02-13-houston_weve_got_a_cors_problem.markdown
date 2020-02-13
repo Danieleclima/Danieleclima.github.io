@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Houston: We've got a CORS problem"
-date:       2020-02-13 20:36:09 +0000
+date:       2020-02-13 15:36:10 -0500
 permalink:  houston_weve_got_a_cors_problem
 ---
 
