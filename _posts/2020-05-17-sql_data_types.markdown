@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "SQL Data Types"
-date:       2020-05-17 21:36:46 +0000
+date:       2020-05-17 17:36:47 -0400
 permalink:  sql_data_types
 ---
 
