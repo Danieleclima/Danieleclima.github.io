@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What does this mean for React?"
-date:       2020-05-24 21:00:45 +0000
+date:       2020-05-24 17:00:46 -0400
 permalink:  what_does_this_mean_for_react
 ---
 
