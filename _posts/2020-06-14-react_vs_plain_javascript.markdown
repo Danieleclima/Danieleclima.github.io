@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "React vs. Plain JavaScript"
-date:       2020-06-14 19:36:29 +0000
+date:       2020-06-14 15:36:30 -0400
 permalink:  react_vs_plain_javascript
 ---
 
 
-So, we’ve looked at the three major ways React is different than plain JS. In particular, those were:
+The main differnces between React and plain JS are as follows:
 
 * Plain JS apps usually start with the initial UI created on the server (as HTML), whereas React apps start with a blank HTML page, and dynamically create the initial state in JavaScript.
 
